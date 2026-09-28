@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Layouni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Engineering&descAlignY=58&descSize=20" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Layouni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering&descAlignY=58&descSize=20" alt="banner" />
 </div>
 
 <h1 align="center">Hi, I'm Ahmed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px" height="36px"></h1>
@@ -67,7 +67,7 @@
 <td valign="top" width="50%">
 
 ### [OfflinePulse Tunisia: Offline Media Audience AI](https://github.com/ahmedlayouni2001/Audience-Analysis-via-AI)
-<sub>Team project</sub>
+<sub>Team project</sub> · <a href="https://drive.google.com/drive/folders/1B33Y6Q6tD0oNRRpqtrEjoaA-2uw-AeLZ"> demo</a></sub>
 
 - 🟢 Real-time audience measurement for **TV, radio and billboards** in Tunisia
 - 🟢 **Random Forest** on TV return-path data · **Whisper + LLaMA 3.3** for radio · **YOLOv8** + perceptual hashing for billboard fraud detection
@@ -98,7 +98,7 @@
 <td valign="top" width="50%">
 
 ### [FitConnect: AI Fitness Community](https://github.com/youssefhk11/seneca_hackathon)
-<sub>Seneca Hackathon · team project</sub>
+<sub>Seneca Hackathon · team project</sub> · <a href="https://drive.google.com/file/d/1nVFnTD7hEr54X4m0FApzapx8G8oiRlTI/view?usp=sharing"> demo</a></sub>
 
 - 🟢 Two **LightGBM** models predicting fitness level and goal from lifestyle data
 - 🟢 Personalized nutrition, sleep and training recommendations served through a web API
