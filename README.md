@@ -67,7 +67,7 @@
 <td valign="top" width="50%">
 
 ### [OfflinePulse Tunisia: Offline Media Audience AI](https://github.com/ahmedlayouni2001/Audience-Analysis-via-AI)
-<sub>Team project</sub> · <a href="https://drive.google.com/drive/folders/1B33Y6Q6tD0oNRRpqtrEjoaA-2uw-AeLZ"> demo</a></sub>
+<sub>Team project · <a href="https://drive.google.com/drive/folders/1B33Y6Q6tD0oNRRpqtrEjoaA-2uw-AeLZ">Demo video</a></sub>
 
 - 🟢 Real-time audience measurement for **TV, radio and billboards** in Tunisia
 - 🟢 **Random Forest** on TV return-path data · **Whisper + LLaMA 3.3** for radio · **YOLOv8** + perceptual hashing for billboard fraud detection
@@ -98,7 +98,7 @@
 <td valign="top" width="50%">
 
 ### [FitConnect: AI Fitness Community](https://github.com/youssefhk11/seneca_hackathon)
-<sub>Seneca Hackathon · team project</sub> · <a href="https://drive.google.com/file/d/1nVFnTD7hEr54X4m0FApzapx8G8oiRlTI/view?usp=sharing"> demo</a></sub>
+<sub>Seneca Hackathon · team project</sub> · <a href="https://drive.google.com/file/d/1nVFnTD7hEr54X4m0FApzapx8G8oiRlTI/view?usp=sharing">Demo Video</a></sub>
 
 - 🟢 Two **LightGBM** models predicting fitness level and goal from lifestyle data
 - 🟢 Personalized nutrition, sleep and training recommendations served through a web API
