@@ -98,7 +98,7 @@
 <td valign="top" width="50%">
 
 ### [FitConnect: AI Fitness Community](https://github.com/youssefhk11/seneca_hackathon)
-<sub>Seneca Hackathon · team project</sub> · <a href="https://drive.google.com/file/d/1nVFnTD7hEr54X4m0FApzapx8G8oiRlTI/view?usp=sharing">Demo Video</a></sub>
+<sub>Seneca Hackathon · team project · <a href="https://drive.google.com/file/d/1nVFnTD7hEr54X4m0FApzapx8G8oiRlTI/view?usp=sharing">Demo Video</a></sub>
 
 - 🟢 Two **LightGBM** models predicting fitness level and goal from lifestyle data
 - 🟢 Personalized nutrition, sleep and training recommendations served through a web API
