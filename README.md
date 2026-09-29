@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-layouni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmed.layouni@ensi-uma.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-kappa-liard-7hgur01y7l.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 ---
